@@ -10,6 +10,10 @@ Los ejecicios son compatibles con el [framework firmware v3](https://github.com/
 ## Ejercicios
 
 Ejercitaciones relacionadas con el desarrollo de las prácticas.
+| Ejercicio | Descripción | Nombre | Tipo |
+| :-: | :-: | :-: | :-: |
+| Ejercicio introductorio parte 1 | Colas + Memoria estática <br> Colas + Memoria dinámica | Parte_A <br> Parte_B | Obligatorio |
+| Ejercicio introductorio parte 2 | OOP + Memoria dinámica <br> OOP + Pool de memoria  | Parte_C <br> Parte_D | Explicado en clase 2 |
 
 ## Trabajo practico
 
