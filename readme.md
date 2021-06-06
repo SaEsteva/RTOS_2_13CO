@@ -21,5 +21,6 @@ El trabajo practico se publicaraá en la semana 2.
 
 ## Lecturas recomendadas
 
+- [Modularidad, abstracción y múltiples instancias en C para Embedded Software] (https://embedded-exploited.blogspot.com/2014/04/generalizacion-encapsulamiento-abstraccion-modularidad-oop.html)
 - [Object-Oriented Programming in C](https://www.state-machine.com/doc/AN_OOP_in_C.pdf) 
 - [Developing Reusable Firmware – A Practical Approach to APIs, HALs and Drivers](https://www.beningo.com/store/developing-reusable-firmware-a-practical-approach-to-apis-hals-and-drivers/) Jacob Beningo ISBN-13 (pbk): 978-1-4842-3296-5
